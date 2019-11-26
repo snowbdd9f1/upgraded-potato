@@ -40,7 +40,7 @@ namespace TYAP_Lab1
 
             if (currentState == State.A || currentState == State.B)
             {
-               result += "String does not end on one of final states";
+               result += "String does not end with one of the final states";
             }
 
             ShowResult(result);
