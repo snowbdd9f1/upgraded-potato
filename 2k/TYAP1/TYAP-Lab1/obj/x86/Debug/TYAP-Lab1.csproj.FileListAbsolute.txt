@@ -1,0 +1,8 @@
+B:\Software\Visual Studio 2010\Projects\TYAP-Lab1\TYAP-Lab1\bin\Debug\TYAP-Lab1.exe
+B:\Software\Visual Studio 2010\Projects\TYAP-Lab1\TYAP-Lab1\bin\Debug\TYAP-Lab1.pdb
+B:\Software\Visual Studio 2010\Projects\TYAP-Lab1\TYAP-Lab1\obj\x86\Debug\TYAP-Lab1.csprojResolveAssemblyReference.cache
+B:\Software\Visual Studio 2010\Projects\TYAP-Lab1\TYAP-Lab1\obj\x86\Debug\TYAP_Lab1.Form1.resources
+B:\Software\Visual Studio 2010\Projects\TYAP-Lab1\TYAP-Lab1\obj\x86\Debug\TYAP_Lab1.Properties.Resources.resources
+B:\Software\Visual Studio 2010\Projects\TYAP-Lab1\TYAP-Lab1\obj\x86\Debug\TYAP-Lab1.csproj.GenerateResource.Cache
+B:\Software\Visual Studio 2010\Projects\TYAP-Lab1\TYAP-Lab1\obj\x86\Debug\TYAP-Lab1.exe
+B:\Software\Visual Studio 2010\Projects\TYAP-Lab1\TYAP-Lab1\obj\x86\Debug\TYAP-Lab1.pdb
